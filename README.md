@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://i.ibb.co/XtWz9M0/github-banner-anthony.png" alt="Anthony Gbadegbe - Frontend Developer Banner"/>
-</p>  
 
 # 👋 Hi, I’m Anthony Gbadegbe  
 
@@ -14,17 +11,16 @@ I’m a passionate **ALX Front-End Web Development learner** with a strong inter
 - 💡 Passionate about **software engineering & problem solving**  
 - 🌍 Inspired by the mission to **empower rural communities through tech**  
 - 🎯 Goal: Build scalable apps & websites that improve **offline learning**  
-- 🌱 Currently learning **React, JavaScript, Tailwind, and Next.js**  
+- 🌱 Currently learning **React, JavaScript, HTML, CSS, and Next.js**  
 
 ---
 
 ## 🛠️ Tech Stack  
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>  
 
