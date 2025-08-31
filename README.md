@@ -2,8 +2,6 @@
 Hi, I’m Anthony Gbadegbe 👋
 Front‑End Web Developer | Offline‑First Learning | Building tools that bridge urban–rural education gaps
 
-   -lightgrey?logo=googlemaps” alt=“Location”/> &label=Profile+Views” alt=“profile views”/>
-
   
 ________________________________________
 About • Mission & Impact • Skills & Tooling • Featured Projects • Offline‑First Toolkit • Learning Journey @ ALX • Community & Volunteering • Writing & Talks • Stats • Contact
