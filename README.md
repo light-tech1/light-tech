@@ -35,15 +35,15 @@ A **PHP-based multi-tenant voting system** that allows organizations to securely
 - ⚡ Real-time updates & vote previews  
 - 🖥️ Admin dashboard for results collation  
 
-👉 [Check out i_vote project](#) *(link your repo here)*  
+<!--👉 [Check out i_vote project](#) *(link your repo here)*  -->
 
 ---
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anthony-Gbadegbe&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony-Gbadegbe&layout=compact&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=light-tech1&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=light-tech1&layout=compact&theme=radical" height="165"/>
 </p>  
 
 ---
