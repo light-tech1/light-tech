@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.ibb.co/XtWz9M0/github-banner-anthony.png" alt="Anthony Gbadegbe - Frontend Developer Banner"/>
+</p>  
+
 # 👋 Hi, I’m Anthony Gbadegbe  
 
 🚀 **Front-End Web Developer | Lifelong Learner | Problem Solver**  
@@ -26,7 +30,7 @@ I’m a passionate **ALX Front-End Web Development learner** with a strong inter
 
 ---
 
-## 📌 Featured Project  
+## 📌 Featured Projects  
 
 ### 🗳️ **i_vote (Multi-Tenant Voting System)**  
 A **PHP-based multi-tenant voting system** that allows organizations to securely conduct elections.  
@@ -35,16 +39,22 @@ A **PHP-based multi-tenant voting system** that allows organizations to securely
 - ⚡ Real-time updates & vote previews  
 - 🖥️ Admin dashboard for results collation  
 
-<!--👉 [Check out i_vote project](#) *(link your repo here)*  -->
+---
+
+### 📚 **EduBridge (Offline Learning Platform)**  
+An **offline-first education platform** that empowers learners in rural areas to access essential learning resources without constant internet access.  
+- 🌐 Provides **educational content offline**  
+- 📲 Mobile-first responsive design  
+- 🎯 Built to **bridge the digital learning gap**  
+- 🛠️ Uses **PWA technologies** for seamless experience  
 
 ---
 
 ## 🌐 Let’s Connect  
 <p align="center">
   <a href="https://www.linkedin.com/in/anthony-gbadegbe-a8781923a"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto: tonylight2011@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a 
-  href="https://github.com/light-tech1"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:tonylight2011@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/light-tech1"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>  
 
 ---
